@@ -21,7 +21,12 @@ public class Gate {
         this.semaphore = new Semaphore(permit);
     }
 
-    public synchronized void pass(String name, String address) {
+    public  void pass(String name, String address) {
+        try {
+            Thread.sleep(1000);// 习题1.1
+        } catch (InterruptedException e) {
+            e.printStackTrace();
+        }
         this.counter++;
         this.name = name;
         this.address = address;

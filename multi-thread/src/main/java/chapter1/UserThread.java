@@ -17,7 +17,7 @@ public class UserThread  extends Thread {
     public void run() {
         System.out.println(name + " begin");
         while(true) {
-            gate.pass1(name, address);
+            gate.pass(name, address);
 
         }
     }
