@@ -1,4 +1,4 @@
-package chapter1;
+package preface1;
 
 public class BankTest {
     public static void main(String[] args) {

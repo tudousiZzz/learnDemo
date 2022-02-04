@@ -1,4 +1,4 @@
-package chapter1;
+package preface1;
 
 import lombok.Data;
 
