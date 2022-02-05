@@ -13,12 +13,11 @@ public class ReaderThread extends Thread{
     public void run() {
         while(true) {
             // 这里存在隐式的修改,读线程多次访问会多次修改造成并发修改冲突
-            synchronized(list){
+            //synchronized(list){
                 for(int i : list) {
                     System.out.println(i);
                 }
-            }
-
+            //}
         }
     }
 }
