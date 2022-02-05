@@ -5,8 +5,13 @@ package chapter2;
  */
 public class Car {
 
-    public static  void run(){
+    public static final void run(){
         System.out.println("Car is running");
+    }
+
+    public String getColor(final int i) {
+        // i ++; final param can't be assigned
+        return i + "";
     }
 
 }
