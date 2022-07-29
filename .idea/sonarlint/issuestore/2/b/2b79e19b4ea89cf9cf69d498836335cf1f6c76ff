@@ -1,0 +1,40 @@
+
+X	java:S125"<This block of commented-out lines of code should be removed.(óõ—“8®åºì/
+W	java:S125"<This block of commented-out lines of code should be removed.(ú†êO8¯åºì/
+V
+java:S1854"9Remove this useless assignment to local variable "bank2".(¬æ¥Š8´åºì/
+G
+java:S1481"*Remove this unused "bank2" local variable.(¬æ¥Š8·åºì/
+{
+java:S2142"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(ä ¹€8Àåºì/
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(ëÉÓÈûÿÿÿÿ8Àåºì/
+{
+java:S2142("^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(ä ¹€8Âåºì/
+U	java:S106+"9Replace this use of System.out or System.err by a logger.(Ş‚‹8Âåºì/
+{
+java:S2142D"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(ä ¹€8Æåºì/
+U	java:S106C"9Replace this use of System.out or System.err by a logger.(„äæÌ8Æåºì/
+{
+java:S2142P"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(ä ¹€8Çåºì/
+Z	java:S106S"9Replace this use of System.out or System.err by a logger.(‰Ğäøÿÿÿÿ8Èåºì/
+V
+java:S1854a"9Remove this useless assignment to local variable "bank2".(¬æ¥Š8Éåºì/
+G
+java:S1481a"*Remove this unused "bank2" local variable.(¬æ¥Š8Ëåºì/
+X	java:S125c"<This block of commented-out lines of code should be removed.(ÈÚØè8Ëåºì/
+U	java:S106i"9Replace this use of System.out or System.err by a logger.(„äæÌ8Ïåºì/
+Z	java:S106u"9Replace this use of System.out or System.err by a logger.(áó“øøÿÿÿÿ8Ñåºì/
+U	java:S106"9Replace this use of System.out or System.err by a logger.(ø§éñ8Òåºì/
+E
+java:S1604"(Make this anonymous inner class a lambda(¼×¨™8Õåºì/
+J
+java:S1604""(Make this anonymous inner class a lambda(ôâ…Æşÿÿÿÿ8Õåºì/
+E
+java:S1604<"(Make this anonymous inner class a lambda(¼×¨™8Õåºì/
+J
+java:S1604J"(Make this anonymous inner class a lambda(ôâ…Æşÿÿÿÿ8Õåºì/
+E
+java:S1604d"(Make this anonymous inner class a lambda(¼×¨™8Öåºì/
+J
+java:S1604o"(Make this anonymous inner class a lambda(ôâ…Æşÿÿÿÿ8Öåºì/
+v	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ú¥–³8×åºì/
