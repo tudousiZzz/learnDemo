@@ -10,10 +10,12 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="multi-thread" />
+        <module name="redis-redission" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel target="11">
-      <module name="multi-thread" target="11" />
+      <module name="multi-thread" target="1.5" />
+      <module name="redis-redission" target="11" />
     </bytecodeTargetLevel>
   </component>
 </project>
